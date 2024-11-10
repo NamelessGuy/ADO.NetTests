@@ -1,0 +1,43 @@
+# User-specific files
+*.suo
+*.user
+*.aps
+*.ncb
+*.sdf
+*.pdb
+*.cache
+*.scc
+*.vspscc
+*.vssscc
+
+# Visual Studio temporary files
+*.tmp
+*.bak
+*.obj
+*.pch
+*.log
+*.ipch
+*.tlog
+*.rep
+*.resx
+*.sln.docstates
+*.suo.cache
+*.suo.local
+*.ipch
+*.opensdf
+*.opendbf
+*.VC*
+
+# Visual Studio configuration files
+*.sln.DotSettings.user
+*.sln.DotSettings
+
+# Build output
+bin/
+obj/
+
+# Packages
+packages/
+
+# Local-specific settings
+.vs/
